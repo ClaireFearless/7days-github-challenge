@@ -15,3 +15,8 @@ Tujuan: Commit setiap hari selama 7 hari berturut-turut untuk membangun konsiste
 ## Logs
 
 Lihat folder `logs/` untuk catatan harian.
+
+## Progress
+
+- [2025-07-25](logs/2025-07-25.md) ✅
+- [2025-07-26](logs/2025-07-26.md) ✅
