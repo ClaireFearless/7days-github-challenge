@@ -1,11 +1,22 @@
-# ✅ TODO - 7 Days Challenge
+# TODO List - 7 Days GitHub Challenge
 
-## 🎯 Target Fitur / Aktivitas
+## 🌱 Harian
+- [x] Commit ke GitHub tiap pagi ☀️
+- [x] Update log harian di folder `logs/`
+- [ ] Tambah konten meaningful setiap hari (README, project, dll)
 
-- [x] Hari 1: Buat repo & isi awal (README, TODO, logs)
-- [ ] Hari 2: Update log harian & ubah style README
-- [ ] Hari 3: Tambah GitHub badge / statistik
-- [ ] Hari 4: Tambah auto script commit (opsional)
-- [ ] Hari 5: Dokumentasi commit via terminal
-- [ ] Hari 6: Refactor dan cleanup repo
-- [ ] Hari 7: Recap akhir dan gif perayaan 🎉
+## 🛠️ Project Progress
+- [x] Setup awal repo challenge
+- [ ] Lanjutkan game puzzle (3x3)
+- [ ] Tambah fitur level 4x4
+- [ ] Animasi akhir setelah menang
+
+## 🔐 Belajar Ethical Hacking
+- [x] Install & setup Kali Linux via VirtualBox
+- [ ] Mulai eksplorasi `nmap`, `whois`, `netdiscover`
+- [ ] Coba scanning port jaringan lokal
+- [ ] Dokumentasikan hasil di folder `kali-notes/`
+
+## 🎁 Bonus (Opsional)
+- [ ] Contribute ke open source (minimal 1 PR)
+- [ ] Pelajari GitHub Actions atau Pages
