@@ -28,3 +28,11 @@
 - [x] Booting Kali Linux & cek tools terminal
 - [x] Eksplorasi perintah dasar jaringan (ping, ifconfig)
 - [x] Coba scanning dengan `nmap`
+
+---
+## 🔧 TODO Day 5 – 29 Juli 2025
+- [x] Eksplorasi Wokwi Arduino & buat project LCD lirik
+🔗 Repo: arduino-lcd-lirik
+- [x] Tampilkan teks/lirik lagu ke LCD 16x2 via modul I2C
+- [x] Upload file: sketch.ino, diagram.json, libraries.txt, wokwi-project.txt
+- [x] Buat dokumentasi awal di README.md
