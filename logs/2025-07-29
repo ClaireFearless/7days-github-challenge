@@ -1,0 +1,16 @@
+📅 Day 5 – 29 Juli 2025
+Judul Proyek: Arduino LCD Lirik Tantee
+Platform: Wokwi Simulator
+Deskripsi:
+Menampilkan teks/lirik lagu ke LCD 16x2 menggunakan modul I2C dan Arduino UNO.
+File penting:
+
+sketch.ino – kode utama Arduino C
+
+diagram.json – rangkaian simulasi
+
+libraries.txt – daftar library
+
+wokwi-project.txt – metadata Wokwi
+
+🔗 Repo: arduino-lcd-lirik
