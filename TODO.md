@@ -36,3 +36,11 @@
 - [x] Tampilkan teks/lirik lagu ke LCD 16x2 via modul I2C
 - [x] Upload file: sketch.ino, diagram.json, libraries.txt, wokwi-project.txt
 - [x] Buat dokumentasi awal di README.md
+
+---
+
+## 🔧 TODO Day 6 – 30 Juli 2025
+ - [x] Commit harian ke repo 7days-github-challenge
+ - [x] Update README dengan log hari ke-6
+ - [x] Tambahkan file log harian (2025-07-30.md)
+ - [x] Interaksi open source (buat issue atau PR ringan)
