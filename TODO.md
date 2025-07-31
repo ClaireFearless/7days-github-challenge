@@ -44,3 +44,11 @@
  - [x] Update README dengan log hari ke-6
  - [x] Tambahkan file log harian (2025-07-30.md)
  - [x] Interaksi open source (buat issue atau PR ringan)
+
+## 🔧 TODO Day 7 – 31 Juli 2025
+- [x] Commit harian ke repo 7days-github-challenge
+- [x] Tambahkan file log harian (2025-07-31.md)
+- [x] Update README/log untuk hari ke-7
+- [x] Evaluasi hasil tantangan 7 hari
+- [x] Rencanakan langkah selanjutnya (lanjutan challenge atau proyek baru)
+
